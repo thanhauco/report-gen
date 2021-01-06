@@ -1,0 +1,5 @@
+class DataSource
+  def fetch
+    [{id: 1, val: 10}, {id: 2, val: 20}]
+  end
+end
