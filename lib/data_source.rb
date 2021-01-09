@@ -1,5 +1,6 @@
+require 'csv'
 class DataSource
   def fetch
-    [{id: 1, val: 10}, {id: 2, val: 20}]
+    CSV.read('data.csv', headers: true).map(&:to_h)
   end
 end
