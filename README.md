@@ -1,8 +1,14 @@
 # Report Gen
 
 ## Features
-- PDF & CSV Generation
-- Email Delivery (Mock)
+- PDF/CSV/Excel Generation
+- Email/Slack Notifications
+- S3 Upload
 - Scheduling
-- Configuration (YAML)
-- RSpec Tests
+- Background Jobs (Sidekiq)
+- OCR (Tesseract)
+- Webhooks
+- Admin Dashboard
+
+## Status
+Enterprise Ready V3.
