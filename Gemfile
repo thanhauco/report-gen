@@ -1,1 +1,2 @@
-gem 'roda'
+gem 'sequel'
+gem 'sqlite3'
