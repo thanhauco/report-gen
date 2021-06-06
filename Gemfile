@@ -1,2 +1,2 @@
-gem 'sequel'
-gem 'sqlite3'
+gem 'dry-validation'
+gem 'dry-types'
