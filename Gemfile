@@ -1,2 +1,1 @@
-gem 'dry-validation'
-gem 'dry-types'
+gem 'hanami'
