@@ -1,1 +1,1 @@
-gem 'hanami'
+gem 'trailblazer'
