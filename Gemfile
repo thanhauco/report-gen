@@ -1,1 +1,1 @@
-gem 'trailblazer'
+gem 'grape'
