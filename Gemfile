@@ -1,1 +1,1 @@
-gem 'grape'
+gem 'kaminari'
