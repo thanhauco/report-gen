@@ -1,1 +1,1 @@
-gem 'fog-aws'
+gem 'capistrano'
