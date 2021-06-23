@@ -1,1 +1,1 @@
-gem 'capistrano'
+gem 'whenever'
