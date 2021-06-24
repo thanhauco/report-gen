@@ -1,1 +1,1 @@
-gem 'whenever'
+gem 'foreman'
