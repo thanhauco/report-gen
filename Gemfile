@@ -1,1 +1,1 @@
-gem 'foreman'
+gem 'puma'
