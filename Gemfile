@@ -1,1 +1,1 @@
-gem 'puma'
+gem 'rack-attack'
