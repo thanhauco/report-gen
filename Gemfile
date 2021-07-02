@@ -1,1 +1,1 @@
-gem 'rack-attack'
+gem 'brakeman'
