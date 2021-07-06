@@ -1,1 +1,1 @@
-gem 'rubocop'
+gem 'simplecov'
