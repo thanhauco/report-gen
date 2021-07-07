@@ -1,1 +1,1 @@
-gem 'simplecov'
+gem 'vcr'
