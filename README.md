@@ -1,14 +1,13 @@
 # Report Gen
 
 ## Features
-- PDF/CSV/Excel Generation
-- Email/Slack Notifications
-- S3 Upload
-- Scheduling
-- Background Jobs (Sidekiq)
-- OCR (Tesseract)
-- Webhooks
-- Admin Dashboard
+- Enterprise V3 Features
+- Roda & Sequel
+- Dry-rb & Hanami
+- Grape API
+- CarrierWave & Fog
+- Capistrano Deployment
+- Security & Code Quality
 
 ## Status
-Enterprise Ready V3.
+Enterprise Scale V4.
