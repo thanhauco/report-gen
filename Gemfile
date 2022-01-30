@@ -1,1 +1,1 @@
-gem 'faker'
+gem 'brakeman'
