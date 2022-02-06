@@ -1,1 +1,1 @@
-gem 'brakeman'
+gem 'kaminari'
