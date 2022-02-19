@@ -1,13 +1,12 @@
 # Report Gen
 
 ## Features
-- Enterprise V3 Features
-- Roda & Sequel
-- Dry-rb & Hanami
-- Grape API
-- CarrierWave & Fog
-- Capistrano Deployment
-- Security & Code Quality
+- Enterprise V4 Features
+- Ruby 3.1 Upgrade
+- GitHub Actions
+- Steep Typing
+- RSpec & FactoryBot
+- Sidekiq Web
 
 ## Status
-Enterprise Scale V4.
+Modernized V5 (2022).
